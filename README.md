@@ -26,7 +26,17 @@ Here is an unedited 1000-token generation sample (temperature=1.0):
 > *"What it!" thought, of turning bentration questions, ordears his chers
 belighted with his heart furent why ceented the dipsortion in the colder
 kissed to Pierre. Coiclliar little to a succoun of Torme and spokene...
-[ВСТАВЬ СЮДА СВОЙ ЛУЧШИЙ АБЗАЦ ИЗ ГЕНЕРАЦИИ]*
+> “Every good something,” she aspemeant, “Oh, Dange Borís,”
+> continued Pierre thing, while Prince Andrew that it sung that
+> he’s eyes this own people dictions. It everything begin weat have closen.
+> 
+> Pierre noticed, having the way men for and able the daughter’n and kiss
+> incons. You get great of youpeng it partrical now have joyfulling the
+> ground offs, glassmer for Prally and whispings he lightly as sinn appeor an
+> officer which he noisee continue the militiant was my dicked up for a
+> so chard obtabing frightened troun ober to her many. But what had Pfull
+> articis, and Annatole, which juiced him to be, a sing fear anbuder it
+> nearing the now of One when itt a lies Moscow, as and kissed banet.
 
 ## What's Next?
 Currently moving away from Char-level generation. The next step is implementing **Byte Pair Encoding (BPE)** to build a proper Tokenizer and compress the context window to train on code.
